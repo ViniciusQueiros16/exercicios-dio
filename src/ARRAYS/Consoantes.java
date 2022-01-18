@@ -33,7 +33,7 @@ public class Consoantes {
                 System.out.print(consoante + " ");
         }
         System.out.println("Quantidade de consoantes: " + quantidadeConsoantes);
-        
+
 
     }
 }
